@@ -1,0 +1,15 @@
+---
+layout: default
+title: Kerala Ruby Group
+---
+
+<div id='home'>
+  <div class='posts'>
+  {% for post in site.posts %}
+    <a href='{{ post.url }}'>
+      {{ post.title }}
+      <div class='meta align-right'>{{ post.date | date_to_string }}</div>
+    </a>
+  {% endfor %}
+  </div>
+</div>

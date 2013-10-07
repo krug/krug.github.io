@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="/css/syntax.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+  </head>
+  <body>
+    <div class='container'>
+      <div class='header'>
+        <h1 class='title'><a href="/">{{ site.name }}</a></h1>
+        <span class='links align-right'>
+          <a href='https://groups.google.com/forum/#!forum/kerala-ruby-users-group' target='_blank'>Mailing list</a>
+          <a href='https://github.com/krug' target='_blank'>Code</a>
+        </span>
+      </div>
+      <div class='site'>
+
+        {{ content }}
+
+      </div> <!-- /site -->
+      <div class='footer'>Powered by <a href='http://jekyllrb.com'>Jekyll</a>.</div>
+    </div> <!-- /container -->
+  </body>
+</html>
