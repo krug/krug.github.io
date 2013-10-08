@@ -7,13 +7,127 @@
     <atom:link href="http://krug.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>October 2013 meetup</title>
-        <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+        <title>Meetup - 6 Oct, 2013</title>
+        <description>&lt;h1 id='talks'&gt;Talks&lt;/h1&gt;
 
-&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;#8220;de Finibus Bonorum et Malorum&amp;#8221; (The Extremes of Good and Evil) by Cicero, written in 45 BC.&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Garden City Rubyconf (Prakash Murthy)&lt;/li&gt;
+
+&lt;li&gt;Intro to Grape-Goliath (by Kannan from Qburst)&lt;/li&gt;
+
+&lt;li&gt;XMPP4R (by Harisankar from Ruby Kitchen)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Mobme Wireless, 41/3197, Fourth Floor, Bhageeratha Square, Near Town Hall, Kacheripady, Kochi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 2-5pm, 6th October, 2013.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RSVP&lt;/strong&gt;: &lt;a href='https://www.facebook.com/events/641152625924594/'&gt;Facebook&lt;/a&gt; or &lt;a href='http://gathers.us/events/kerala-ruby-users-group-meetup-oct-2013'&gt;Gathers.us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id='summary_of_the_meetup'&gt;Summary of the meetup&lt;/h1&gt;
+
+&lt;p&gt;* &amp;#8230;&lt;/p&gt;
+
+&lt;h1 id='talk_intro_to_grapegoliath'&gt;Talk: Intro to grape-goliath&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://www.slideshare.net/kannanreghu9/grape-golilath'&gt;Slides&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://rubygems.org/gems/grape_goliath'&gt;grape_goliath on Rubygems.org&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='https://github.com/qburstruby/grape_goliath'&gt;grape_goliath on Github&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='https://github.com/qburstruby?tab=repositories'&gt;Other gems from Qburst&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id='talk_xmpp4r'&gt;Talk: XMPP4R&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://github.com/xmpp4r/xmpp4r'&gt;Github repository&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://xmpp4r.github.io'&gt;Web Page&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.slideshare.net/coderhs/xmpp4r'&gt;Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
         <pubDate>Mon, 07 Oct 2013 20:30:00 +0530</pubDate>
-        <link>http://krug.github.io/posts/oct-meetup</link>
-        <guid isPermaLink="true">http://krug.github.io/posts/oct-meetup</guid>
+        <link>http://krug.github.io/posts/meetup-october-2013</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/meetup-october-2013</guid>
+      </item>
+    
+      <item>
+        <title>Meetup Minutes - 5th August, 2012</title>
+        <description>&lt;h1 id='overview_of_august_2012_meetup'&gt;Overview of August, 2012 meetup&lt;/h1&gt;
+
+&lt;p&gt;We had a great meetup this afternoon. Here&amp;#8217;s a quick summary of the meetup:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sumit Asok spoke about Test Driven Development and gave some excellent advice on doing TDD right. Sumit explained some of the best practices when it comes to doing TDD with Rspec.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PS. Thanks Sumit for traveling all the way from Bangalore for doing this talk. :)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ehthisham TK spoke about Ruboto - Ruby on Android. Ruboto is a framework for developing apps using JRuby on Android. He also gave a quick demo of developing an app using the Ruboto framework.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;After the talks, the participants had discussions on various technologies. There were even some humorous and friendly diversions towards some of the classic programmer flame wars - Ruby vs Python, Rails vs Django, Sublime vs Vim vs Emacs, and editors vs IDEs. The people attending included Ruby, Python, Java and front end developers - hence the diversity in opinions. ;-)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;The attendance was lower compared to the last meetup, but there was plenty of enthusiastic participation from those who did attend. :)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;The venue and date for future meetups was also discussed. We would love to host the event every month at WowMakers, but I agree that it would be best for the community if other Ruby shops also would get to host the meetups. :)&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;It was also felt that Sundays aren&amp;#8217;t the best day for meetups and Saturdays would be preferable for most people. So, for the September meetup, we&amp;#8217;ll discuss here and pick a different date.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Would love to hear opinions about #5 and #6. Please do reply with your thoughts. Also, if anyone&amp;#8217;s interested in doing a talk at next month&amp;#8217;s meetup, please do reply here. :)&lt;/p&gt;
+
+&lt;p&gt;Minutes prepared by &lt;a href='https://twitter.com/nithinbekal'&gt;Nithin Bekal&lt;/a&gt;&lt;/p&gt;</description>
+        <pubDate>Sun, 05 Aug 2012 20:30:00 +0530</pubDate>
+        <link>http://krug.github.io/posts/meetup-minutes-august-2012</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/meetup-minutes-august-2012</guid>
+      </item>
+    
+      <item>
+        <title>Meetup - 1st July, 2012</title>
+        <description>&lt;h1 id='minutes_of_the_first_kerala_ruby_user_group_krug_meeting'&gt;Minutes of the First Kerala Ruby User Group (KRUG) Meeting&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Harisankar presented a talk about the Cuba microframework. This was followed by Q&amp;amp;A and discussions about some of the Cuba code examples.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;I presented an intro to Ruby aimed mainly at newbies. This was followed by a general discussion about the language and the Ruby ecosystem.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Most of the people who attended were experienced with Ruby, and the talks and discussions had gone on for a while, so we didn&amp;#8217;t have the coding sessions for beginners that we had initially planned.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;The turnout at the meetup was a pleasant surprise, as there were around 18 people there. Turnout at events is usually much lower than the RSVPs, but this was just one short of the Facebook RSVPs. Hopefully we&amp;#8217;ll have even better participation for the next meetup.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;We all felt that this mailing list is the best place for planning for the next meetup and proposing talks. The space at Startup Village is always available as the venue. We just need volunteers now for speaking at the next meetup. :)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Minutes prepared by &lt;a href='https://twitter.com/nithinbekal'&gt;Nithin Bekal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.facebook.com/media/set/?set=a.396161007098834.81084.189290137785923&amp;amp;type=1'&gt;Photos&lt;/a&gt;&lt;/p&gt;</description>
+        <pubDate>Sun, 01 Jul 2012 20:30:00 +0530</pubDate>
+        <link>http://krug.github.io/posts/meetup-july-2012</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/meetup-july-2012</guid>
       </item>
     
   </channel>
