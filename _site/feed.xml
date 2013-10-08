@@ -60,11 +60,11 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Intro to NLP - Hari gave an intro to NLP and spoke about how we can use some Ruby libraries for NLP in Ruby. He will be continuing the discussion about NLP at the next meetup when he&amp;#8217;ll talk about Treat - an NLP library for Ruby.&lt;/p&gt;
+&lt;p&gt;Intro to NLP - &lt;a href='https://twitter.com/coder_hsps'&gt;Hari&lt;/a&gt; gave an intro to NLP and spoke about how we can use some Ruby libraries for NLP in Ruby. He will be continuing the discussion about NLP at the next meetup when he&amp;#8217;ll talk about Treat - an NLP library for Ruby.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;Metaprogramming Ruby - Deepak started a series of talks about metaprogramming in Ruby. He spoke about the Ruby object model. This was the first part of a series of talks he will be doing about metaprogramming and he will be doing the next part of the talk at the next meetup.&lt;/p&gt;
+&lt;p&gt;Metaprogramming Ruby - &lt;a href='https://twitter.com/42races'&gt;Deepak&lt;/a&gt; started a series of talks about metaprogramming in Ruby. He spoke about the Ruby object model. This was the first part of a series of talks he will be doing about metaprogramming and he will be doing the next part of the talk at the next meetup.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
@@ -80,9 +80,9 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href='https://plus.google.com/photos/102876020754850448034/albums/5901094211574087745'&gt;Here&amp;#8217;s a couple of photos from the meetup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://plus.google.com/photos/102876020754850448034/albums/5901094211574087745'&gt;Photos of the meetup&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Cheers, N.&lt;/p&gt;</description>
+&lt;p&gt;Minutes prepared by &lt;a href='https://twitter.com/nithinbekal'&gt;Nithin Bekal&lt;/a&gt;&lt;/p&gt;</description>
         <pubDate>Sun, 14 Jul 2013 20:30:00 +0530</pubDate>
         <link>http://krug.github.io/posts/meetup-minutes-july-2013</link>
         <guid isPermaLink="true">http://krug.github.io/posts/meetup-minutes-july-2013</guid>
@@ -94,7 +94,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Vishnu Gopal from Mobme spoke about how they use Ruby at Mobme. He spoke about the non-Rails usage of Ruby and specifically spoke about two gems - sync_service and async_service that are used at Mobme for synchronous SOA daemons and daemons for processing work from queues respectively.&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://twitter.com/vishnugopal'&gt;Vishnu Gopal&lt;/a&gt; from Mobme spoke about how they use Ruby at Mobme. He spoke about the non-Rails usage of Ruby and specifically spoke about two gems - sync_service and async_service that are used at Mobme for synchronous SOA daemons and daemons for processing work from queues respectively.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
@@ -136,7 +136,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Ehthisham TK spoke about Ruboto - Ruby on Android. Ruboto is a framework for developing apps using JRuby on Android. He also gave a quick demo of developing an app using the Ruboto framework.&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://twitter.com/xe20mx'&gt;Ehthisham TK&lt;/a&gt; spoke about Ruboto - Ruby on Android. Ruboto is a framework for developing apps using JRuby on Android. He also gave a quick demo of developing an app using the Ruboto framework.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
@@ -170,7 +170,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Harisankar presented a talk about the Cuba microframework. This was followed by Q&amp;amp;A and discussions about some of the Cuba code examples.&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://twitter.com/coder_hsps'&gt;Harisankar&lt;/a&gt; presented a talk about the Cuba microframework. This was followed by Q&amp;amp;A and discussions about some of the Cuba code examples.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;

@@ -13,7 +13,7 @@ We had a great meetup this afternoon. Here's a quick summary of the meetup:
 
 PS. Thanks Sumit for traveling all the way from Bangalore for doing this talk. :)
 
-* Ehthisham TK spoke about Ruboto - Ruby on Android. Ruboto is a framework for developing apps using JRuby on Android. He also gave a quick demo of developing an app using the Ruboto framework.
+* [Ehthisham TK](https://twitter.com/xe20mx) spoke about Ruboto - Ruby on Android. Ruboto is a framework for developing apps using JRuby on Android. He also gave a quick demo of developing an app using the Ruboto framework.
 
 * After the talks, the participants had discussions on various technologies. There were even some humorous and friendly diversions towards some of the classic programmer flame wars - Ruby vs Python, Rails vs Django, Sublime vs Vim vs Emacs, and editors vs IDEs. The people attending included Ruby, Python, Java and front end developers - hence the diversity in opinions. ;-)
 

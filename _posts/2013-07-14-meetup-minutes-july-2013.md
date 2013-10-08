@@ -8,9 +8,9 @@ categories: meetups
 
 # Quick summary of the meetup:
 
-* Intro to NLP - Hari gave an intro to NLP and spoke about how we can use some Ruby libraries for NLP in Ruby. He will be continuing the discussion about NLP at the next meetup when he'll talk about Treat - an NLP library for Ruby.
+* Intro to NLP - [Hari](https://twitter.com/coder_hsps) gave an intro to NLP and spoke about how we can use some Ruby libraries for NLP in Ruby. He will be continuing the discussion about NLP at the next meetup when he'll talk about Treat - an NLP library for Ruby.
 
-* Metaprogramming Ruby - Deepak started a series of talks about metaprogramming in Ruby. He spoke about the Ruby object model. This was the first part of a series of talks he will be doing about metaprogramming and he will be doing the next part of the talk at the next meetup.
+* Metaprogramming Ruby - [Deepak](https://twitter.com/42races) started a series of talks about metaprogramming in Ruby. He spoke about the Ruby object model. This was the first part of a series of talks he will be doing about metaprogramming and he will be doing the next part of the talk at the next meetup.
 
 * RubyConf India 2014 - We also discussed about the possibility of hosting the next RubyConf India in Kochi. We are already in touch with the RubyConf organizers and are already looking to make a list of venues that could be considered if the event were to come to Kochi.
 
