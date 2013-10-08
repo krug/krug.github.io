@@ -55,6 +55,36 @@
       </item>
     
       <item>
+        <title>Meetup Minutes - 8th September, 2012</title>
+        <description>&lt;p&gt;Here&amp;#8217;s a quick roundup of last weekend&amp;#8217;s meetup:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vishnu Gopal from Mobme spoke about how they use Ruby at Mobme. He spoke about the non-Rails usage of Ruby and specifically spoke about two gems - sync_service and async_service that are used at Mobme for synchronous SOA daemons and daemons for processing work from queues respectively.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Akhil Stanislavose spoke about Background processing in Rails - and the delayed_job gem in particular. This was also followed by a demo of the gem and a discussion on background processing in general.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;There was also a discussion about how the Ruby community in Kochi could collaborate on some open source project - either a new one or an existing project. Hopefully we can have more discussion on this idea here on the mailing list.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Another discussion that happened was about the use of Rails for open source projects - and Projects Fedena in particular - and whether the problems in upgrading such projects from Rails 2.x to 3.x has discouraged community participation in such projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also discussed whether we could have the next meetup in a hackathon format. That&amp;#8217;s another topic that needs discussion here.&lt;/p&gt;
+
+&lt;p&gt;Minutes prepared by &lt;a href='https://twitter.com/nithinbekal'&gt;Nithin Bekal&lt;/a&gt;&lt;/p&gt;</description>
+        <pubDate>Sat, 08 Sep 2012 20:30:00 +0530</pubDate>
+        <link>http://krug.github.io/posts/meetup-minutes-september-2012</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/meetup-minutes-september-2012</guid>
+      </item>
+    
+      <item>
         <title>Meetup Minutes - 5th August, 2012</title>
         <description>&lt;h1 id='overview_of_august_2012_meetup'&gt;Overview of August, 2012 meetup&lt;/h1&gt;
 
