@@ -19,3 +19,8 @@ Here's a quick roundup of last weekend's meetup:
 We also discussed whether we could have the next meetup in a hackathon format. That's another topic that needs discussion here.
 
 Minutes prepared by [Nithin Bekal](https://twitter.com/nithinbekal)
+
+
+## Presentation
+
+[How we use ruby at mobme - Vishnu Gopal](https://speakerdeck.com/vishnugopal/how-we-use-ruby-at-mobme-wireless)

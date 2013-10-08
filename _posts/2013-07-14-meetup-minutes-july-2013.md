@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Meetup Minutes - 14th July, 2012"
+date:   2013-07-14 15:00:00
+categories: meetups
+---
+
+
+# Quick summary of the meetup:
+
+* Intro to NLP - Hari gave an intro to NLP and spoke about how we can use some Ruby libraries for NLP in Ruby. He will be continuing the discussion about NLP at the next meetup when he'll talk about Treat - an NLP library for Ruby.
+
+* Metaprogramming Ruby - Deepak started a series of talks about metaprogramming in Ruby. He spoke about the Ruby object model. This was the first part of a series of talks he will be doing about metaprogramming and he will be doing the next part of the talk at the next meetup.
+
+* RubyConf India 2014 - We also discussed about the possibility of hosting the next RubyConf India in Kochi. We are already in touch with the RubyConf organizers and are already looking to make a list of venues that could be considered if the event were to come to Kochi.
+
+* Ruby at FISAT - JIbin, a student at FISAT, proposed that we conduct a day long workshop about Ruby and Rails at his college. This will be happening on August 3. We have a separate mail thread to continue this discussion.
+
+* 1 Year anniversary - We also celebrated the first anniversary of Ruby meetups in Kochi by cutting a cake. (Photos linked below.) The first Ruby meetup in Kochi happened in July 2012, and even though we didn't have meetups for a few months in between, we're now back to having regular monthly meetups.
+
+
+
+[Photos of the meetup](https://plus.google.com/photos/102876020754850448034/albums/5901094211574087745)
+
+Minutes prepared by [Nithin Bekal](https://twitter.com/nithinbekal)
