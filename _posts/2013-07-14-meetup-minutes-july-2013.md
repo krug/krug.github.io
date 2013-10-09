@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meetup Minutes - 14th July, 2012"
+title:  "Meetup Minutes - 14th July, 2013"
 date:   2013-07-14 15:00:00
 categories: meetups
 ---
