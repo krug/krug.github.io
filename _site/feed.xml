@@ -50,12 +50,32 @@
 &lt;li&gt;&lt;a href='http://www.slideshare.net/coderhs/xmpp4r'&gt;Presentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
         <pubDate>Mon, 07 Oct 2013 20:30:00 +0530</pubDate>
-        <link>http://krug.github.io/posts/meetup-october-2013</link>
-        <guid isPermaLink="true">http://krug.github.io/posts/meetup-october-2013</guid>
+        <link>http://krug.github.io/posts/oct-2013-meetup</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/oct-2013-meetup</guid>
       </item>
     
       <item>
-        <title>Meetup Minutes - 14th July, 2013</title>
+        <title>Ruby Workshop at FISAT</title>
+        <description>&lt;p&gt;KRUG members organized a day long Ruby programming workshop at FISAT today. It was attended by around 20 participants.&lt;/p&gt;
+
+&lt;p&gt;The workshop started off with covering the basics of Ruby. This was followed by building a live coding session by &lt;a href='https://github.com/akhilstanislavose'&gt;Akhil Stanislavose&lt;/a&gt; where he built a simple command-line movie search app. He then converted this into a web app using Sinatra.&lt;/p&gt;
+
+&lt;h1 id='links'&gt;Links&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://slides.nithinbekal.com/ruby-101/'&gt;Ruby 101 slides&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://slid.es/akhilstanislavose/deck'&gt;Build a Command line Movie Search App Using Ruby&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='https://www.dropbox.com/sc/z9n7t4t2fdekofm/cVIsZnUCgL'&gt;Event photos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <pubDate>Sat, 03 Aug 2013 20:30:00 +0530</pubDate>
+        <link>http://krug.github.io/posts/fisat-workshop</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/fisat-workshop</guid>
+      </item>
+    
+      <item>
+        <title>Meetup - 14th July, 2013</title>
         <description>&lt;h1 id='quick_summary_of_the_meetup'&gt;Quick summary of the meetup:&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -84,12 +104,12 @@
 
 &lt;p&gt;Minutes prepared by &lt;a href='https://twitter.com/nithinbekal'&gt;Nithin Bekal&lt;/a&gt;&lt;/p&gt;</description>
         <pubDate>Sun, 14 Jul 2013 20:30:00 +0530</pubDate>
-        <link>http://krug.github.io/posts/meetup-minutes-july-2013</link>
-        <guid isPermaLink="true">http://krug.github.io/posts/meetup-minutes-july-2013</guid>
+        <link>http://krug.github.io/posts/jul-2013-meetup</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/jul-2013-meetup</guid>
       </item>
     
       <item>
-        <title>Meetup Minutes - 8th September, 2012</title>
+        <title>Meetup - 8th September, 2012</title>
         <description>&lt;p&gt;Here&amp;#8217;s a quick roundup of last weekend&amp;#8217;s meetup:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -118,12 +138,12 @@
 
 &lt;p&gt;&lt;a href='https://speakerdeck.com/vishnugopal/how-we-use-ruby-at-mobme-wireless'&gt;How we use ruby at mobme - Vishnu Gopal&lt;/a&gt;&lt;/p&gt;</description>
         <pubDate>Sat, 08 Sep 2012 20:30:00 +0530</pubDate>
-        <link>http://krug.github.io/posts/meetup-minutes-september-2012</link>
-        <guid isPermaLink="true">http://krug.github.io/posts/meetup-minutes-september-2012</guid>
+        <link>http://krug.github.io/posts/sep-2012-meetup</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/sep-2012-meetup</guid>
       </item>
     
       <item>
-        <title>Meetup Minutes - 5th August, 2012</title>
+        <title>Meetup - 5th August, 2012</title>
         <description>&lt;h1 id='overview_of_august_2012_meetup'&gt;Overview of August, 2012 meetup&lt;/h1&gt;
 
 &lt;p&gt;We had a great meetup this afternoon. Here&amp;#8217;s a quick summary of the meetup:&lt;/p&gt;
@@ -160,8 +180,8 @@
 
 &lt;p&gt;Minutes prepared by &lt;a href='https://twitter.com/nithinbekal'&gt;Nithin Bekal&lt;/a&gt;&lt;/p&gt;</description>
         <pubDate>Sun, 05 Aug 2012 20:30:00 +0530</pubDate>
-        <link>http://krug.github.io/posts/meetup-minutes-august-2012</link>
-        <guid isPermaLink="true">http://krug.github.io/posts/meetup-minutes-august-2012</guid>
+        <link>http://krug.github.io/posts/aug-2012-meetup</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/aug-2012-meetup</guid>
       </item>
     
       <item>
@@ -194,8 +214,8 @@
 
 &lt;p&gt;&lt;a href='http://www.facebook.com/media/set/?set=a.396161007098834.81084.189290137785923&amp;amp;type=1'&gt;Photos&lt;/a&gt;&lt;/p&gt;</description>
         <pubDate>Sun, 01 Jul 2012 20:30:00 +0530</pubDate>
-        <link>http://krug.github.io/posts/meetup-july-2012</link>
-        <guid isPermaLink="true">http://krug.github.io/posts/meetup-july-2012</guid>
+        <link>http://krug.github.io/posts/jul-2012-meetup</link>
+        <guid isPermaLink="true">http://krug.github.io/posts/jul-2012-meetup</guid>
       </item>
     
   </channel>

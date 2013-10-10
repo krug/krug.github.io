@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby Workshop at FISAT"
-date:   2012-08-03 15:00:00
+date:   2013-08-03 15:00:00
 categories: workshops
 ---
 
