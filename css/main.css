@@ -41,6 +41,16 @@ a:hover { text-decoration: underline; }
   padding: 40px;
 }
 
+#home .banner {
+  background: #f9edbe;
+  border: 1px solid #ddd;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  margin: 0 0 20px 0;
+  padding: 10px 30px;
+}
+#home .banner p { margin: 10px 0; }
+
 .site .posts a {
   border-bottom: 1px solid #eee;
   display: block;
