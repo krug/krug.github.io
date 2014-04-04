@@ -3,3 +3,4 @@ description: ''
 url: http://krug.github.io
 pygments: true
 permalink: /posts/:title
+markdown: kramdown
