@@ -10,6 +10,8 @@ categories: meetups
 * Introductions
 * SaltStack (Sreenadh)
 
+**RSVP**: [Google+](https://plus.google.com/events/c7amodr8uekn6g9k1u2d6c1sg04)
+
 **Time**: 2-5pm, 17th August, 2014.
 
 **Venue**: To be announced
