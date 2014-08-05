@@ -14,4 +14,4 @@ categories: meetups
 
 **Time**: 2-5pm, 17th August, 2014.
 
-**Venue**: To be announced
+**Venue**: MobME Wireless Solutions Ltd., 41/3197, Fourth Floor, Bhageeratha Square, Kacherippady, Cochin – 682018
