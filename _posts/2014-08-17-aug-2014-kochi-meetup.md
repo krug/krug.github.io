@@ -9,6 +9,7 @@ categories: meetups
 
 * Introductions
 * SaltStack (Sreenadh)
+* How to build a Rails app (demo by Akhil and Nithin)
 
 **RSVP**: [Google+](https://plus.google.com/events/c7amodr8uekn6g9k1u2d6c1sg04)
 
