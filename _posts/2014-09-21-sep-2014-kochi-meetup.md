@@ -14,7 +14,7 @@ categories: meetups
 
 **Date**: 2-5pm, 21 September, 2014
 
-**Venue**: Whatznear
+**Venue**: Whatznear office, Palarivattom
 
 ### Address
 
