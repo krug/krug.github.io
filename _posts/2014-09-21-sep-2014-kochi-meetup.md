@@ -10,9 +10,9 @@ categories: meetups
 # Agenda
 
 * Introductions
-* [VCR](https://github.com/vcr/vcr) (Revath S Kumar)
-* Nokogiri (Deepak Kumar)
-* Decorator Pattern (Nithin Bekal)
+* [VCR](https://github.com/vcr/vcr) (Revath S Kumar) [[Slides](http://blog.revathskumar.com/2014/09/vcr-and-webmock.html)]
+* Nokogiri (Deepak Kumar) [[Slides](https://dl.dropboxusercontent.com/u/36026026/krug-nokogiri.html)]
+* Decorator Pattern (Nithin Bekal) [[Slides](http://nithinbekal.com/slides/decorator-pattern/)]
 
 **Date**: 2-5pm, 21 September, 2014
 
