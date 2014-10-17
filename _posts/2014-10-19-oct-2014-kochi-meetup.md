@@ -10,7 +10,7 @@ categories: meetups
 # Agenda
 
 * Introductions
-* Talks to be announced
+* Metaprogramming (Nithin Bekal)
 
 **Date**: 2-5pm, 19 October, 2014
 
