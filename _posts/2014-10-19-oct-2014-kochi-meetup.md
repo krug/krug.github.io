@@ -10,9 +10,9 @@ categories: meetups
 # Agenda
 
 * Introductions
-* Fun With Ruby Metaprogramming (Nithin Bekal)
-* Scumblr (Harisankar PS)
-* Template Metaprogramming (Praseed Pai)
+* [Fun With Ruby Metaprogramming](http://nithinbekal.com/slides/metaprogramming-tricks/) (Nithin Bekal)
+* [Scumblr](https://github.com/Netflix/Scumblr) (Harisankar PS)
+* [Template Metaprogramming](http://praseedp.blogspot.in/2014/10/tomorrows-ruby-meetup-covers-topic-of.html) (Praseed Pai)
 
 **Date**: 2-5pm, 19 October, 2014
 
