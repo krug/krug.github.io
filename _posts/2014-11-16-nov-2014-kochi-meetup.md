@@ -12,8 +12,6 @@ categories: meetups
 * Introductions
 * Talks to be announced
 
-**RSVP**: [Google+](https://plus.google.com/events/c1hmk9uiphqter3d82mcbpug0n0)
-
 **Date**: 2-5pm, 16 November, 2014
 
 **Venue**: MobME Wireless Solutions Ltd., 41/3197, Fourth Floor, Bhageeratha Square, Kacherippady, Cochin – 682018
