@@ -10,7 +10,7 @@ categories: meetups
 # Agenda
 
 * Introductions
-* Talks to be announced
+* Flash talks
 
 **Date**: 2-5pm, 16 November, 2014
 
