@@ -10,6 +10,7 @@ categories: meetups
 # Agenda
 
 * Introductions
+* Rubygems packaging in Debian (Praveen Arimbrathodiyil)
 * Flash talks
 
 **Date**: 2-5pm, 16 November, 2014
