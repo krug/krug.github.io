@@ -12,7 +12,7 @@ categories: meetups
 * 2:00 - Introductions
 * 2:30 - Hardware Hacking With Ruby (Akhil Stanislavose)
 * 3:30 - Tea break and networking
-* 4:00 - Flash talks and networking
+* 4:00 - Flash talks
 
 **Date**: 2-5pm, 18 January, 2015
 
