@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kochi Ruby Meetup - 18 January, 2014"
+title: "Kochi Ruby Meetup - 18 January, 2015"
 date: 2015-01-18 14:00:00
 categories: meetups
 ---
