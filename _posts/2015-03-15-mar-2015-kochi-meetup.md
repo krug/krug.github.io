@@ -10,7 +10,8 @@ categories: meetups
 # Agenda
 
 * 2:00 - Introductions
-* 2:30 - Talks (to be announced)
+* 2:30 - Building a Gem (Tessy Joseph)
+* 3:15 - Elixir for Rubyists (Nithin Bekal)
 * 3:30 - Tea break and networking
 * 4:00 - Flash talks
 
