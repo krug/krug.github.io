@@ -30,5 +30,5 @@ Landmark: Same building as Federal Bank, chembumukku branch.
 
 Bus Stop: Chembumukku. (The office is on the road side, close to the bus stand).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d491.13328304185126!2d76.3225269!3d10.01138540000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080cfc6912ba45%3A0xd025eef90cc61284!2sChembumukku+Bus+Stop!5e0!3m2!1sen!2sin!4v1425920284384" width="600" height="450" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d491.13368008387215!2d76.32293928472673!3d10.011123013051687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080cfc6e54aa05%3A0xad82389814ee4d11!2sRed+Panthers!5e0!3m2!1sen!2sin!4v1426303712881" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
