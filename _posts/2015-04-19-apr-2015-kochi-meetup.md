@@ -10,7 +10,7 @@ categories: meetups
 # Agenda
 
 * 2:00 - Introductions
-* 2:30 - Introduction to ruby programming language
+* 2:30 - Introduction to ruby programming language by Harisankar 
 * 3:30 - Flash talks and networking
 
 **Date**: 2-5pm, 19 April, 2015
