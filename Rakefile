@@ -11,13 +11,16 @@ title: \"Kochi Ruby Meetup - #{date.strftime('%d %B, %Y')}\"
 date:  #{date.strftime('%Y-%m-%d %k:%M:%S')}
 categories: meetups
 ---
-  
+
 **RSVP**:
 
 # Agenda
 
 * 2:00 - Introductions
-* 2:30 - Talks...
+* 2:30 - Talk 1
+* 3:15 - Talk 2
+* 4:00 - Tea break and networking
+* 4:30 - Flash talks
 
 **Date**: 2-5pm, #{date.strftime('%d %B, %Y')}
 
