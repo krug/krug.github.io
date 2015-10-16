@@ -5,7 +5,9 @@ date:  2015-10-18 14:00:00
 categories: meetups
 ---
 
-**RSVP**: [Google+](https://plus.google.com/events/c44bm4f6rk88jfgtuhgicctvd98)
+**RSVP**:
+[Google+](https://plus.google.com/events/c44bm4f6rk88jfgtuhgicctvd98)
+[Facebook](https://www.facebook.com/events/1616629045259712/)
 
 # Agenda
 
