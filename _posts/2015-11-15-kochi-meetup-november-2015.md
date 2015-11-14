@@ -5,7 +5,7 @@ date:  2015-11-15 14:00:00
 categories: meetups
 ---
 
-**RSVP**:
+**RSVP**: [Google+](https://plus.google.com/events/cilnr88ujkgd4j0n25r2i3nemas)
 
 # Agenda
 
