@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello Ruby Software"
+title: "TvM Ruby Meetup - 9 December, 2015"
 categories: meetups
 ---
 
