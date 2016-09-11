@@ -1,6 +1,6 @@
 name: Kerala Ruby Users Group
 description: ''
 url: http://krug.github.io
-pygments: true
+highlighter: rouge
 permalink: /posts/:title
 markdown: kramdown
