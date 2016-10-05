@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Trivandrum meetup: October 6, 2016"
+date: 2016-10-06 17:30:00
 categories: meetups
 ---
 
@@ -9,7 +10,6 @@ categories: meetups
 Walk-In
 
 ### Agenda
-
 
 * Advantages of Codecademy for programming beginners by [Jijosh](https://github.com/jijosh)
 * Introduction to Hash in Ruby by [Nandu Sankar](https://github.com/nandusankar)
