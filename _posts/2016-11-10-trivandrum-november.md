@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trivandrum meetup: November 15, 2016"
-date: 2016-11-15 17:30:00
+date: 2016-11-10 17:30:00
 categories: meetups
 ---
 
