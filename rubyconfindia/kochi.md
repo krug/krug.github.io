@@ -41,11 +41,19 @@ If you're traveling by bus to Kochi, most buses will take you to Vyttila Hub,
 which is about 4km from the venue. You can take a taxi or an auto rickshaw
 from here.
 
-## Sighseeing within the city
+## Places to visit in Kochi
 
-- Fort Kochi
-- Marine Drive
-- Kochi Muziris Biennale
+- [Kochi Muziris Biennale](https://www.kochimuzirisbiennale.org)
+- [Fort Kochi](https://en.wikipedia.org/wiki/Fort_Kochi#Main_Tourist_Attractions)
+- [Marine Drive](raw://en.wikipedia.org/wiki/Marine_Drive,_Kochi)
+- [Hill Palace, Tripunithura](https://en.wikipedia.org/wiki/Hill_Palace,_Tripunithura)
+- [Houseboats](https://www.cleartrip.com/activities/india/kochi/houseboats-in-kochi/)
+- [Wonderla Amusement Park](http://www.wonderla.com/kochi-amusement-park/)
+
+Other activities nearby:
+
+- [Go-karting](https://www.cleartrip.com/activities/india/kochi/go-karting-15-minutes-777080/)
+- [Paintball](http://www.paintballkerala.com)
 
 ## Sightseeing outside the city
 
