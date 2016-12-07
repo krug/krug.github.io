@@ -10,6 +10,46 @@ If you have a question that is not answered on this page,
 please ask the question on the
 [Kerala Ruby mailing list](https://groups.google.com/forum/#!forum/kerala-ruby-users-group).
 
+## Traveling to Kochi
+
+Kochi (also known as Cochin) is a port city of the southern state of Kerala.
+Kochi is located on the west coast of India by the Arabian Sea.
+The city is about 206 km north of Thiruvananthapuram, the state's capital.
+Kochi is easily accessible by air, rail and road.
+
+### By air
+
+The city has an international airport; it is known as the Cochin International Airport.
+The airport is located in Nedumbassery, about 38 km from Kochi main city.
+About 9 domestic and 17 international airlines connect with this airport.
+Bus and taxi services are easily available to travel from the airport.
+The city also has a second airport which is a Defence Airbase and is not open to the public.
+
+### By Train
+
+Kochi is well linked with major cities and states of India.
+Kochi has two major railway stations; they are the Ernakulam Junction and Ernakulam Town.
+The railways stations at Aluva, Thripunithura, Kalamassery, Kumbalam, Nettoor and Aroor
+serve the city outskirts and surrounding metropolitan area.
+
+### By Bus
+
+Kochi is well connected by road to adjoining cities and states via several state and national highways.
+Kochi is well link with the National Highway number 47, 17, 49, 47A and 47C.
+The city is also well connected with several state highways.
+Buses and taxis services are available daily in Kochi.
+
+## City Trasportation
+
+The city has private bus operators and the state public transport KSRTC (Kerala State Road Transport Corporation).
+(Some of the buses may not have signs in English.)
+
+Uber and Ola Cabs apps can be used for hiring cabs within the city.
+
+Taxis can also be hired from taxi stands located all over the city.
+Other options are auto-rickshaws and private rent-a-cars and bikes.
+You can find taxi and auto rickshaw stands outside the city railway stations.
+
 ## How to reach the venue
 
 The venue for the conference is Le Meridien.
