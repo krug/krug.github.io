@@ -11,7 +11,8 @@ Walk-In
 
 ### Agenda
 
-* Hackbeach Experience Sharing by Santhosh Raju
+* How World of Warcraft helped me become a better progrmmer by Santhosh Raju
+
 * Introduction to Ruby On Rails by [Krishna Prasad Nair](https://github.com/kp666)
 
 
